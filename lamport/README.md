@@ -1,0 +1,2 @@
+# About
+Lamport's hash based signature scheme, same as [this](https://github.com/Davidson-Souza/CPP/blob/master/src/cryptography/lamport.c) but in rust. More about [here](https://en.wikipedia.org/wiki/Lamport_signature)
